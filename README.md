@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![Sakayaparp's github stats](https://github-readme-stats.vercel.app/api?username=sakayaparp&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakayaparp&layout=compact)](https://github.com/sakayaparp/sakayaparp)
+![Sakayaparp's github stats](https://github-readme-stats.vercel.app/api?username=sakayaparp&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakayaparp&layout=compact)](https://github.com/sakayaparp/sakayaparp)
 
 <!--
 **sakayaparp/sakayaparp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
